@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # given a mRNA sequence, prints the cDNA correspondent sequence
-
 $mRNA = "AUGGUAACACAUGACGAUGAAUGAGUACCAGAUGAUAUGGUAACACAUGACGAUGAAUGAGUACCAGAUG";
 @sq = split("", $mRNA);
 $cDNA = "";

@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # givens two integer numbers A and B, checks if $b correspond to last digits of $a
-
 print "Give me a number: ";
 $a = <>;
 print "Give me another number: ";

@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # given two integer numbers, checks if the minor is in the bigger
-
 print "Give me the first number: ";
 chomp($a = <>);
 print "Give me the second number: ";

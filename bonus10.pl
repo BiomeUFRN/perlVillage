@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # given a DNA sequence, prints its complementary reverse
-
 $dna = "TACCATTGTGTACTGCTACTTACTCATGGTCTACTATACCATTGTGTACTGCTACTTACTCATGGTCTAC";
 @sq = split("", $dna);
 $revC = "";

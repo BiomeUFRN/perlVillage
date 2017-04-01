@@ -7,5 +7,4 @@ It's to accomplish the challenge made by teacher of BioME post-graduation progra
 
 ## Now including a set of bonus questions:
 > **bonus1.pl to bonus7.pl** *(playing with numbers, regex, flows and sequences)*
-
-> **bonus8 to bonus11** *(bioinformatics playground)*
+> **bonus8.pl to bonus11.pl** *(bioinformatics playground)*

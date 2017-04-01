@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # given a number N, catch a sequence with size $n, prints the sum of even numbers in it
-
 print "Give me a base number: ";
 chomp($n = <>);
 @sequence;

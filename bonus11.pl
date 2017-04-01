@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 #given a fasta file, prints its label and the bigger GC sequence percentage
-
 open(DATA,"<fasta_file.txt") or die	"Can't open	data";
 @dna =	<DATA>;
 close(DATA);

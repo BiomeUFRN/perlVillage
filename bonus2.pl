@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # given a number, prints its fatorial
-
 print "Give me a number: ";
 chomp($exit = <>);
 $f = 0;

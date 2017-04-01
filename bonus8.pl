@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 # given a sequence of nucleotides, prints total of each one
-
 $seq = "ATGGTAACACATGACGATGAATGAGTACCAGATGATATGGTAACACATGACGATGAATGAGTACCAGATG";
 
 foreach $x ($seq =~ m/(A|C|T|G)/g) {
